@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa23c58d-24c9-44d5-96d7-3fd22e89a5aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson12_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Schedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chooseVariant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/printResultActionList.java" afterDir="false" />
+    <list default="true" id="aa23c58d-24c9-44d5-96d7-3fd22e89a5aa" name="Changes" comment="Homework1">
+      <change afterPath="$PROJECT_DIR$/src/chooseAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson12_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson12_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chooseVariant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/printResultActionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/printResultActionList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +21,17 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -86,8 +91,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673015016318</updated>
-      <workItem from="1673015018028" duration="2275000" />
+      <workItem from="1673015018028" duration="12076000" />
     </task>
+    <task id="LOCAL-00001" summary="Homework1">
+      <created>1673017414617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673017414618</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,5 +116,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework1" />
   </component>
 </project>

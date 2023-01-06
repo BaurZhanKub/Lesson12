@@ -1,8 +1,16 @@
 public class Lesson12_1 {
-    static String[] resultActionList = new String[15];
-    static int index = 0;
-    public static void main(String[] args) {
-        System.out.println(chooseVariant.chooseVariant(10,12));
 
+
+    public static void main(String[] args) {
+        printResult();
+    }
+
+    static void printResult() {
+        chooseAction.chooseAction("Начало дня");
+        new printResultActionList(chooseAction.resultActionList);
+        System.out.println(chooseAction.badIndex);
+        System.out.println(chooseAction.lickyIndex);
+        System.out.println("Получилось");
     }
 }
+
