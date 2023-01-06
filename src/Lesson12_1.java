@@ -8,9 +8,8 @@ public class Lesson12_1 {
     static void printResult() {
         chooseAction.chooseAction("Начало дня");
         new printResultActionList(chooseAction.resultActionList);
-        System.out.println(chooseAction.badIndex);
-        System.out.println(chooseAction.lickyIndex);
-        System.out.println("Получилось");
+        String result = chooseAction.lickyIndex>chooseAction.badIndex ? "Ден был хороший " : "День не задолся";
+        System.out.println(result);
     }
 }
 

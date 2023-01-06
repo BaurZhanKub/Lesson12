@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa23c58d-24c9-44d5-96d7-3fd22e89a5aa" name="Changes" comment="Homework1">
-      <change afterPath="$PROJECT_DIR$/src/chooseAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="aa23c58d-24c9-44d5-96d7-3fd22e89a5aa" name="Changes" comment="final">
       <change beforePath="$PROJECT_DIR$/src/Lesson12_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson12_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chooseVariant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/printResultActionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/printResultActionList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673015016318</updated>
-      <workItem from="1673015018028" duration="12076000" />
+      <workItem from="1673015018028" duration="12533000" />
     </task>
     <task id="LOCAL-00001" summary="Homework1">
       <created>1673017414617</created>
@@ -100,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673017414618</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="final">
+      <created>1673027588646</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673027588646</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework1" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
 </project>
